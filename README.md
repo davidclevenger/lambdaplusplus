@@ -4,7 +4,7 @@ A small, header-only C++20 library of functional utilities (`compose`,
 `attempt`, `match`).
 
 
-[![CI](https://github.com/dclevenger/lambdaplusplus/actions/workflows/ci.yml/badge.svg)](https://github.com/dclevenger/lambdaplusplus/actions/workflows/ci.yml)
+[![CI](https://github.com/davidclevenger/lambdaplusplus/actions/workflows/ci.yml/badge.svg)](https://github.com/davidclevenger/lambdaplusplus/actions/workflows/ci.yml)
 
 
 ## Usage
