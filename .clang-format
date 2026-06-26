@@ -1,0 +1,10 @@
+---
+Language: Cpp
+BasedOnStyle: Mozilla
+ColumnLimit: 100
+IndentWidth: 4
+AccessModifierOffset: -4
+DerivePointerAlignment: false
+PointerAlignment: Left
+IncludeBlocks: Preserve
+...
